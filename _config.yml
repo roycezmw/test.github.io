@@ -6,7 +6,7 @@ email: zaq.1@163.com
 description: "先试试"
 keyword: "郑明武"
 url: "https://roycezmw.github.io"              # your host, for absolute URL
-baseurl: "test.github.io"                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
